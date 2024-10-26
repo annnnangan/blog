@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.3",
-    "@astrojs/partytown": "^2.1.2",
     "@astrojs/rss": "^4.0.7",
     "@astrojs/sitemap": "^3.1.6",
     "@astrojs/svelte": "^5.7.1",
@@ -48,6 +47,7 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
+    "@astrojs/partytown": "^2.1.2",
     "@astrojs/ts-plugin": "^1.10.2",
     "@biomejs/biome": "1.8.3",
     "@iconify-json/fa6-brands": "^1.1.22",
