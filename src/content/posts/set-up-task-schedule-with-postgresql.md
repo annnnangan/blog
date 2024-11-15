@@ -211,7 +211,7 @@ lang: 'zh-HK'
     SELECT * FROM cron.job;
     ```
     
-    ![image.png](https://firebasestorage.googleapis.com/v0/b/testing-c9537.appspot.com/o/image.png?alt=media&token=91bb9cc9-d050-4282-bf39-bfb321b5af6d)
+    ![image.png](https://firebasestorage.googleapis.com/v0/b/testing-c9537.appspot.com/o/pg_cron.png?alt=media&token=bbecb0b9-f433-4a2a-9d3b-8d7bdae86df7)
     
 
 1. 建立Booking table 的seed file
