@@ -36,8 +36,7 @@ lang: 'zh-HK'
     yarn knex migrate:make create-nano-id-trigger
     ```
     
-    - migration file的內文是直接複製了a href="https://github.com/elitan/postgres-nanoid/blob/main/nanoid.sql" 
-           target="_blank">github elitan的sql</a>
+    - migration file的內文是直接複製了<a href="https://github.com/elitan/postgres-nanoid/blob/main/nanoid.sql" target="_blank"> github elitan的sql</a>
     
     ```jsx
     /**
