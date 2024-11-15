@@ -1,7 +1,7 @@
 ---
-title: 如果使用Chart.js來建立一個doughnut chart
+title: 如何使用Chart.js來建立一個doughnut chart
 published: 2024-10-26
-description: '如果使用Chart.js來建立一個doughnut chart'
+description: '如何使用Chart.js來建立一個doughnut chart'
 image: 'https://media.licdn.com/dms/image/v2/D5612AQGitElggL7p1g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705583811569?e=2147483647&v=beta&t=fTRFU9o4II4zsKXEcRrK7d6odrKhIdgcdBxERf24CBU'
 tags: [Chart.js]
 category: 'Chart.js'
