@@ -25,10 +25,11 @@ User could upload multiple images and preview immediately. Every time when they 
 
 
 - ProofUploadAndPreview.tsx
-<img src="https://firebasestorage.googleapis.com/v0/b/testing-c9537.appspot.com/o/upload-multiple-images-in-nextjs%2Fupload-images-1.png?alt=media&token=50f63622-b154-492d-8d58-cbb603a012a6" width="500"/>
-    - This is just an layout and has no functionality yet. Later, we will pass the images URL from this component to the ImagePreview component using props.
+  <img src="https://firebasestorage.googleapis.com/v0/b/testing-c9537.appspot.com/o/upload-multiple-images-in-nextjs%2Fupload-images-1.png?alt=media&token=50f63622-b154-492d-8d58-cbb603a012a6" width="500"/>
+
+  - This is just an layout and has no functionality yet. Later, we will pass the images URL from this component to the ImagePreview component using props.
         
-        ```tsx
+   ```tsx
         import { Button } from "@/components/ui/button";
         
         const ProofUploadAndPreview = () => {
@@ -55,7 +56,7 @@ User could upload multiple images and preview immediately. Every time when they 
         };
         
         export default ProofUploadAndPreview;
-        ```
+  ```
         
 - ImagePreview.tsx
     - Images get from the props will then appear in a grid layout like below later.
@@ -243,7 +244,7 @@ Now we are already able to preview the images we have uploaded. The next step is
             <div key={image} className="relative aspect-[4/3] group">
               <Image
                 src={image}
-                alt="studio image"
+                alt="payout proof image"
                 className="object-contain transition-all duration-500 group-hover:brightness-50"
                 fill
                 sizes="w-auto"
