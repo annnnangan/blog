@@ -36,3 +36,5 @@ lang: 'en'
     
 
 4. Remove all the file and folder inside the `stories` folder as we want to create stories for our own components.
+
+<a href="/blog/posts/setup-storybook-for-react-project-step2/"> Go to Step 2 </a>
