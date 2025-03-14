@@ -37,3 +37,5 @@ lang: 'en'
     ```bash
     npx storybook@latest add @storybook/addon-styling-webpack
     ```
+
+<a href="/blog/posts/setup-storybook-for-react-project-step3/"> Go to Step 3 </a>
