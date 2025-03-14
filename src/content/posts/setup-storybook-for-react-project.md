@@ -28,3 +28,8 @@ Storybook could help in this case. In this article, we will demonstrate how to s
 <a href="/blog/posts/setup-storybook-for-react-project-step1/"> Step 1 - Install Storybook </a>
 
 <a href="/blog/posts/setup-storybook-for-react-project-step2/"> Step 2 - Import Existing Styles to Storybook</a>
+
+<a href="/blog/posts/setup-storybook-for-react-project-step3/"> Step 3 - Create a story for a component</a>
+
+<a href="/blog/posts/setup-storybook-for-react-project-step4/"> Step 4 - Deploy the storybook to chromatic</a>
+

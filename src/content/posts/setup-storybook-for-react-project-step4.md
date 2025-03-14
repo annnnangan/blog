@@ -1,5 +1,5 @@
 ---
-title: Step4 Create a story for a component - Setup Storybook to Better Organize your Components for React Project
+title: Step 4 Create a story for a component - Setup Storybook to Better Organize your Components for React Project
 published: 2025-03-14
 description: ''
 image: 'https://firebasestorage.googleapis.com/v0/b/testing-c9537.appspot.com/o/storybook%2Fstorybook-logo.jpeg?alt=media&token=19bcacd6-87c1-4e4f-9289-656261d3b61f'
